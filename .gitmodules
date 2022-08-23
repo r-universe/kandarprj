@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epidecodeR"]
+	path = epidecodeR
+	url = https://github.com/kandarprj/epidecoder
+	shallow = true
+	registered = true
